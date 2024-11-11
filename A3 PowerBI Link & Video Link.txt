@@ -1,0 +1,8 @@
+LIVE POWER BI:
+https://app.powerbi.com/view?r=eyJrIjoiNTE2MmQwZTktMmM1NS00NzUzLTg1MWQtYjAzODBkNWNmMTcyIiwidCI6Ijk0YmIyYTk4LTg3ZmEtNGQxMy1iYmRhLTRhOWJmODY2Y2IyNyIsImMiOjN9
+
+For some reason, the live link does not show the interactive globe correctly. The rest of the visualization works correctly. The source file is attached in the GitHub that can be opened using PowerBI.
+In the video the full visualization is shown to be working, not sure why the live link does not work for the globe
+
+VIDEO LINK:
+https://www.loom.com/share/70fb1a8aa8ca4180827916a4bb51a67f?sid=5ec69775-463f-4d14-9e75-ca6c6fe12108
